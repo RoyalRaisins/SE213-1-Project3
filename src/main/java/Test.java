@@ -8,15 +8,16 @@ import org.openqa.selenium.interactions.Actions;
 import java.util.concurrent.TimeUnit;
 
 public class Test {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException{
         System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
-        WebDriver driver = new ChromeDriver();
+        WebDriver driver  = new ChromeDriver();
 
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
         driver.get("http://www.baidu.com");
         driver.manage().deleteAllCookies();
         // Initialization of driver
+
 
         Actions action = new Actions(driver);
         action.moveToElement(driver.findElement(By.xpath("/html/body/div[1]/div[1]/div[4]/span"))).perform();
@@ -36,10 +37,10 @@ public class Test {
             driver.switchTo().window(winHandle);
             break;
         }
-        // Search and jump
+        //Search and jump
         Thread.sleep(4000);
         driver.findElement(By.xpath("/html/body/div[3]/div[1]/div[2]/a[2]")).click();
-        // searchButton.submit();
+        //searchButton.submit();
         Thread.sleep(3000);
         driver.close();
     }
