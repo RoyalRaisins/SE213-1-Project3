@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df228c50-5d7c-4433-aa25-6d3f9d7d8c3b" name="Default Changelist" comment="" />
+    <list default="true" id="df228c50-5d7c-4433-aa25-6d3f9d7d8c3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +90,7 @@
       <workItem from="1592011871992" duration="984000" />
       <workItem from="1592012924006" duration="2047000" />
       <workItem from="1592015161355" duration="5074000" />
+      <workItem from="1592030926331" duration="2701000" />
     </task>
     <servers />
   </component>
@@ -97,22 +102,22 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="367" y="74" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1592016167236" />
-    <state width="1506" height="213" key="GridCell.Tab.0.bottom" timestamp="1592020635330">
+    <state width="1506" height="213" key="GridCell.Tab.0.bottom" timestamp="1592033486120">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="213" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1592020635330" />
-    <state width="1506" height="213" key="GridCell.Tab.0.center" timestamp="1592020635330">
+    <state width="1506" height="213" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1592033486120" />
+    <state width="1506" height="213" key="GridCell.Tab.0.center" timestamp="1592033486120">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="213" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1592020635330" />
-    <state width="1506" height="213" key="GridCell.Tab.0.left" timestamp="1592020635330">
+    <state width="1506" height="213" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1592033486120" />
+    <state width="1506" height="213" key="GridCell.Tab.0.left" timestamp="1592033486120">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="213" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1592020635330" />
-    <state width="1506" height="213" key="GridCell.Tab.0.right" timestamp="1592020635330">
+    <state width="1506" height="213" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1592033486120" />
+    <state width="1506" height="213" key="GridCell.Tab.0.right" timestamp="1592033486120">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="213" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1592020635330" />
+    <state width="1506" height="213" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1592033486120" />
     <state x="284" y="58" key="SettingsEditor" timestamp="1592016226232">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -121,5 +126,9 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="468" y="240" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1592030937315" />
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1592032162884">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1592032162884" />
   </component>
 </project>
